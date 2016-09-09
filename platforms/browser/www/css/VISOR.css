@@ -1,0 +1,25 @@
+.wrap {
+    white-space: normal !important;
+}
+
+#page_header{
+	background-color: #FF0000; 
+	color:#fff; 
+	border: 1px solid #FF0000;
+}
+.ui-bar-visor{
+	border-width: 0px !important;
+	border-style: solid !important;
+	background-color: #FF0000 !important;
+	border-color: #FF0000 !important;;
+	text-shadow: 0 !important;
+	font-weight: bold !important;
+}
+
+#footer_navbar a{
+	background-color: #FF0000; 
+	color:#fff; 
+	border: 1px solid #c80107;
+	margin-bottom: -1px;
+}
+
